@@ -2,7 +2,7 @@
 
 ## Abstract
 
-We live in a time period where the past saw a sudden increase in employees in the IT sector due to the covid pandemic and the future where recession is unavoidable due to over employment. Still, the attrition rates have not affected as much as predicted due to recession. Employee attrition is a major problem faced by companies in the present years. In the perspective of the employer, despite employees having a history of multiple companies, employers are ready to recruit them for the experience of the specific employee, even if their loyalty is doubted. This research study aims to do a study on the employee attrition rates in the recent past using machine learning algorithms. The reason for employees leaving is analyzed considering factors like Designation , age, work environment, work-life balance, etc. The proposed work yields a significant performance in predicting the employee attrition. By using feature selection and exploring the different ensemble classifiers accuracy of 80% was achieved using 6 features.
+   We live in a time period where the past saw a sudden increase in employees in the IT sector due to the covid pandemic and the future where recession is unavoidable due to over employment. Still, the attrition rates have not affected as much as predicted due to recession. Employee attrition is a major problem faced by companies in the present years. In the perspective of the employer, despite employees having a history of multiple companies, employers are ready to recruit them for the experience of the specific employee, even if their loyalty is doubted. This research study aims to do a study on the employee attrition rates in the recent past using machine learning algorithms. The reason for employees leaving is analyzed considering factors like Designation , age, work environment, work-life balance, etc. The proposed work yields a significant performance in predicting the employee attrition. By using feature selection and exploring the different ensemble classifiers accuracy of 80% was achieved using 6 features.
 
 ---
 ![Employee Retention](https://github.com/Jeevith23/Employee-retention-rate/assets/139576422/6c19e103-0a16-4b34-bc1f-e72ccacaaf23)
@@ -39,8 +39,12 @@ Step 3:
 
 ---
 ## *Work Pipeline*
+In this work pipeline while evaluating the model with the test data, If the Accuracy is less than expected we go back to the `Explore ML Model` and choose a different machine learning model.
 
-![WORKPIPELINE](https://github.com/Jeevith23/Employee-retention-rate/assets/139576422/94f18651-e3bc-4582-bf5a-719e3c67a5e9)
+
+![Woerkpipeline](https://github.com/Jeevith23/Employee-retention-rate/assets/139576422/3644fc43-b419-4959-9e2d-13b570f8eec2)
+
+
 
 
 ---
@@ -178,7 +182,7 @@ The output would be,
 ---
 ## Analyse the Data
 
-Here we have some graphs and visuals of the data which we have analyzed.
+Here we have some graphs and visuals of the data which we have analyzed using `PowerBI`. In order to interact with the visuals open the ppt file in the repository where it is directly connected to the PowerBI.
 
 ![Visualization](https://github.com/Jeevith23/Employee-retention-rate/assets/139576422/c5e45b51-7690-4c56-89f5-410db86df871)
 
